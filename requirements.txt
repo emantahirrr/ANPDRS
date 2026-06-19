@@ -1,0 +1,12 @@
+# ANPDRS — Requirements
+# Install: pip install -r requirements.txt
+# PyTorch (GPU) install separately — see README
+
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+streamlit>=1.28.0
+pytesseract>=0.3.10
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
